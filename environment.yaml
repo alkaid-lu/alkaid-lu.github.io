@@ -1,0 +1,7 @@
+name: smileVAE
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.8
+  - pytorch::pytorch
